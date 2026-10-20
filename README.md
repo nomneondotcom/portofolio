@@ -141,8 +141,8 @@ devportfolio/
 If you'd like to run it locally:
 
 ```
-git clone https://github.com/nomneondotcom/portfolio.git
-cd portfolio
+git clone https://github.com/nomneondotcom/portofolio.git
+cd portofolio
 npm install
 ```
 
